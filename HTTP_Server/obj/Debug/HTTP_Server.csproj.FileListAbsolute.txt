@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\HTTP_Server\HTTP_Server\bin\Debug\HTTP_Server.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\HTTP_Server\HTTP_Server\bin\Debug\HTTP_Server.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HTTP_Server\HTTP_Server\bin\Debug\HTTP_Server.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\HTTP_Server\HTTP_Server\obj\Debug\HTTP_Server.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\HTTP_Server\HTTP_Server\obj\Debug\HTTP_Server.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HTTP_Server\HTTP_Server\obj\Debug\HTTP_Server.pdb
